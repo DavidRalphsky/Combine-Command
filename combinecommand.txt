@@ -1,0 +1,7 @@
+"combinecommand"
+{
+	"title"			"Combine Command"
+	"maps"			"^cc_"
+	"menusystem"	"1"
+	"author_name"	"David Ralphsky"
+}
